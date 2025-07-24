@@ -9,6 +9,14 @@ Develop a robust machine learning model to assign a **credit score between 0 and
 
 ---
 
+## **Dataset**
+
+The sample dataset used for training and analysis:
+
+[Download Dataset (JSON, Google Drive)](https://drive.google.com/file/d/1VFHrvj0mkaUg_hdBD5PXiT18aoOBkudy/view?usp=sharing)
+
+---
+
 ## **Method Chosen**
 
 We used **Isolation Forest**, an unsupervised anomaly detection algorithm, to analyze wallet behaviors without requiring labeled data.
